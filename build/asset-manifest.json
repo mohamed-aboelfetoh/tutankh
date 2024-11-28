@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c03be36.css",
-    "main.js": "/static/js/main.0d8bc842.js",
+    "main.js": "/static/js/main.c3782ec8.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.png": "/static/media/logo.301e4d45885f84af3a9b.png",
     "static/media/د محمد فوزي.jpg": "/static/media/د محمد فوزي.65f6c4741fc7e4dda419.jpg",
@@ -15,11 +15,11 @@
     "index.html": "/index.html",
     "static/media/google-scholar.svg": "/static/media/google-scholar.77a11d106cc02cc2562625139f84cb0e.svg",
     "main.8c03be36.css.map": "/static/css/main.8c03be36.css.map",
-    "main.0d8bc842.js.map": "/static/js/main.0d8bc842.js.map",
+    "main.c3782ec8.js.map": "/static/js/main.c3782ec8.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c03be36.css",
-    "static/js/main.0d8bc842.js"
+    "static/js/main.c3782ec8.js"
   ]
 }
