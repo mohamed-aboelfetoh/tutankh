@@ -1,25 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c03be36.css",
-    "main.js": "/static/js/main.c3782ec8.js",
+    "main.css": "/static/css/main.4192cd09.css",
+    "main.js": "/static/js/main.95654f22.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.png": "/static/media/logo.301e4d45885f84af3a9b.png",
-    "static/media/د محمد فوزي.jpg": "/static/media/د محمد فوزي.65f6c4741fc7e4dda419.jpg",
-    "static/media/ali.jpg": "/static/media/ali.40cbdda7d9da0ed789f6.jpg",
     "static/media/homeImage.png": "/static/media/homeImage.961bc76f9a5d33347cf0.png",
-    "static/media/Younan.jpg": "/static/media/Younan.0b623d8963a5fe17ff73.jpg",
-    "static/media/kareem.jpg": "/static/media/kareem.05ed77d9c416f118a041.jpg",
-    "static/media/is.jpg": "/static/media/is.20f3a03cbd36ea48c1e0.jpg",
-    "static/media/Elmaria.jpg": "/static/media/Elmaria.64b5666b62d3b0232ff6.jpg",
-    "static/media/researchgate-svgrepo-com.svg": "/static/media/researchgate-svgrepo-com.eeb4d225901ffd49e2f32db34440811f.svg",
     "index.html": "/index.html",
-    "static/media/google-scholar.svg": "/static/media/google-scholar.77a11d106cc02cc2562625139f84cb0e.svg",
-    "main.8c03be36.css.map": "/static/css/main.8c03be36.css.map",
-    "main.c3782ec8.js.map": "/static/js/main.c3782ec8.js.map",
+    "main.4192cd09.css.map": "/static/css/main.4192cd09.css.map",
+    "main.95654f22.js.map": "/static/js/main.95654f22.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c03be36.css",
-    "static/js/main.c3782ec8.js"
+    "static/css/main.4192cd09.css",
+    "static/js/main.95654f22.js"
   ]
 }
